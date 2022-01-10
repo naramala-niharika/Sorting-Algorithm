@@ -46,7 +46,7 @@ print(value)
 
 
 ## Output:
-![Output]()
+![Output](https://github.com/naramala-niharika/Sorting-Algorithm/blob/main/Screenshot%20(55).png?raw=true)
 ```
 ii)	#Insertion Sort
 ''' 
@@ -73,7 +73,7 @@ print(value)
 ```
 
 ## Output:
-![Output]()
+![Output](https://github.com/naramala-niharika/Sorting-Algorithm/blob/main/Screenshot%20(56).png?raw=true)
 
 
 ## Result:
